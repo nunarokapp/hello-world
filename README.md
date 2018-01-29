@@ -1,2 +1,16 @@
 # hello-world
-just another repository
+just another repo
+
+package main
+
+import("fmt" )
+
+func main() {  
+    fmt.Println("hello,")
+}
+##############################################################################################################################
+
+    
+    
+    
+    
