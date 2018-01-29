@@ -1,5 +1,5 @@
 # hello-world
-just another repo
+just another gipqmflv[q test
 
 package main
 
@@ -8,9 +8,3 @@ import("fmt" )
 func main() {  
     fmt.Println("hello,")
 }
-##############################################################################################################################
-
-    
-    
-    
-    
